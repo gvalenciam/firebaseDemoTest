@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>265542021114-v96jlfe9rqkqrqkuq1oqeetroe92bvul.apps.googleusercontent.com</string>
+	<string>265542021114-6kjg9tp73lhgt479l66k2252t565gvmr.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.265542021114-v96jlfe9rqkqrqkuq1oqeetroe92bvul</string>
+	<string>com.googleusercontent.apps.265542021114-6kjg9tp73lhgt479l66k2252t565gvmr</string>
 	<key>API_KEY</key>
 	<string>AIzaSyBLOYi450HJVYkIwywzWsS71r8Kl7qp3ck</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>DawnValenciaMesias.firebaseDemo</string>
+	<string>Dawn.firebaseDemo</string>
 	<key>PROJECT_ID</key>
 	<string>fir-demo-581b2</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,7 +29,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:265542021114:ios:1b7f5d567d508e10</string>
+	<string>1:265542021114:ios:d9be11d3be84d89c</string>
 	<key>DATABASE_URL</key>
 	<string>https://fir-demo-581b2.firebaseio.com</string>
 </dict>
